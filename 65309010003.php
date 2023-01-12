@@ -1,3 +1,3 @@
 <?php
-   echo "nawapon ninpan";
+   echo "nawapon ninpan.";
    ?>
